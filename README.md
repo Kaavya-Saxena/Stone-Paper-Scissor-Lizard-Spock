@@ -6,5 +6,3 @@ This version is called Stone Paper Scissors Lizard Spock.
 I was introduced to this idea while watching Big Bang Theory.
 
 This is a Single player Game. Rules of the Game will be conveyed through the website itself.
-
-Link to the Deployed Site ( It is recommended to open this site on a laptop/pc) : https://stonepaperscissorslizardspock.netlify.app/
